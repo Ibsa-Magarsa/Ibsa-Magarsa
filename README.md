@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **advanced React and Node.js**  
 - 👯 I’m looking to collaborate on **full-stack and AI projects**  
 - 💬 Ask me about **Python, Java, Django, FastAPI, React, Node.js**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibsa-magarsa-054b18367/  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibsa-magarsa-054b18367) 
 
 ---
 
