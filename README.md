@@ -21,8 +21,7 @@
 - 🌱 I’m currently learning **advanced React and Node.js**  
 - 👯 I’m looking to collaborate on **full-stack and AI projects**  
 - 💬 Ask me about **Python, Java, Django, FastAPI, React, Node.js**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibsa-magarsa-054b18367/) | [Telegram](https://t.me/menbaranoll)  
-- ⚡ Fun fact: I love solving **competitive programming challenges** on [LeetCode](https://leetcode.com/u/Ibsa_Magarsa/) and [Codeforces](https://codeforces.com/profile/Ibsa_Magarsa)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibsa-magarsa-054b18367/  
 
 ---
 
@@ -54,7 +53,6 @@
 ### 📬 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/ibsa-magarsa-054b18367/"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&style=for-the-badge" /></a>
-<a href="https://t.me/menbaranoll"><img src="https://img.shields.io/badge/Telegram-000?logo=telegram&style=for-the-badge" /></a>
 <a href="https://leetcode.com/u/Ibsa_Magarsa/"><img src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&style=for-the-badge" /></a>
 <a href="https://codeforces.com/profile/Ibsa_Magarsa"><img src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&style=for-the-badge" /></a>
 </p>
