@@ -55,7 +55,7 @@
 <a href="https://www.linkedin.com/in/ibsa-magarsa-054b18367/"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://leetcode.com/u/Ibsa_Magarsa/"><img src="https://img.shields.io/badge/LeetCode-000?logo=leetcode&style=for-the-badge" /></a>
 <a href="https://codeforces.com/profile/Ibsa_Magarsa"><img src="https://img.shields.io/badge/Codeforces-000?logo=codeforces&style=for-the-badge" /></a>
- <a href="https://mail.google.com/mail/u/0/?pli=1#inbox/magarsaibsa25@gmail.com"><img src="https://img.shields.io/badge/gmail-000?logo=gmail&style=for-the-badge" /></a>
+ <a href="https://magarsaibsa25@gmail.com"><img src="https://img.shields.io/badge/gmail-000?logo=gmail&style=for-the-badge" /></a>
  
 </p>
 
